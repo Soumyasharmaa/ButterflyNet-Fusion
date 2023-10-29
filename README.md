@@ -88,7 +88,7 @@ The ensemble model is constructed by summing the outputs or predictions of the i
 | Average Ensemble        | 0.35769         |
 
 ![Loss vs Epoch Model 1](https://github.com/Soumyasharmaa/ButterflyNet-Fusion/blob/main/model1.png?raw=true)
-![Loss vs Epoch Model 2](https://drive.google.com/file/d/1HlxnvScSBKZYpFkSS_a31vPVw8dlw81Y/view?usp=drive_link)
+![Loss vs Epoch Model 2](https://github.com/Soumyasharmaa/ButterflyNet-Fusion/blob/main/model2.png?raw=true)
 ![Loss vs Epoch Model 3](https://drive.google.com/file/d/1WfpSKn1o4ZeMai1NMQIeAqCmsFYRsfFT/view?usp=drive_link)
 
 
