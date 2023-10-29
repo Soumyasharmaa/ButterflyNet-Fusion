@@ -78,3 +78,14 @@ Non-trainable params: 0 (0.00 Byte)
 The ensemble model is constructed by summing the outputs or predictions of the individual component models, resulting in a combined prediction.
 
 
+### Model Accuracies
+
+| Model                   | Accuracy Score |
+|-------------------------|-----------------|
+| Model 1                 | 0.24154         |
+| Model 2                 | 0.31077         |
+| Model 3                 | 0.32462         |
+| Average Ensemble        | 0.35769         |
+
+
+
