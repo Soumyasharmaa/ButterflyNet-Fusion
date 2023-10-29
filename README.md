@@ -75,4 +75,6 @@ Total params: 138,891 (542.54 KB)
 Trainable params: 138,891 (542.54 KB)
 Non-trainable params: 0 (0.00 Byte)
 ```
+The ensemble model is constructed by summing the outputs or predictions of the individual component models, resulting in a combined prediction.
+
 
